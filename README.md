@@ -13,3 +13,4 @@ necessity: I want to know the amount of disk formatted(lol).
 Capture.png
 Capture1.png
 Capture2.png
+are related.
